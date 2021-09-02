@@ -44,8 +44,8 @@ const Testimonial = ({
   );
 
   const sectionHeader = {
-    title: 'Quotes and Things',
-    paragraph: 'Filler because I didn\'t have any quotes or reviews on myself.'
+    title: 'Quotes from Players',
+    paragraph: 'The heart and words of these players are inspirational.'
   };
 
   return (
@@ -62,16 +62,14 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    Do you want anything from the store? -Mom <br></br>
-                    Yes, a dog. -Me <br></br>
-                    Graduate then and move out. <br></br>-Mom
+                    - "The harder you work and the more prepared you are for something, you're going to be able to persevere through anything."
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">My Mother</span>
+                  <span className="testimonial-item-name text-color-high">Carli Lloyd</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">Common Interaction</a>
+                    <a href="#0">Retired USWNT, 2000s</a>
                   </span>
                 </div>
               </div>
@@ -81,16 +79,14 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    *Martin laughing* <br></br>
-                    What? -Me <br></br>
-                    You are just always smiling when I see you. -Martin
+                    -"I've never scored a goal in my life without getting a pass from someone else."
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">Martin Rude</span>
+                  <span className="testimonial-item-name text-color-high">Abby Wambach</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">Discipleship Retreat</a>
+                    <a href="#0">Retired USWNT Player, 2000s</a>
                   </span>
                 </div>
               </div>
@@ -100,14 +96,14 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    "My brain is no longer working."
+                    -"I worked on my weaknesses and made them my strenghts"
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">Myself</span>
+                  <span className="testimonial-item-name text-color-high">Sydney Leroux</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">It has only been one week of class.</a>
+                    <a href="#0">Past USWNT Player 2010s, Currently NWSL</a>
                   </span>
                 </div>
               </div>

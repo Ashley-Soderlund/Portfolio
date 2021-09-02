@@ -61,19 +61,19 @@ const Hero = ({
         <div className={innerClasses}>
           <div className="hero-content">
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
-              Get to Know <span className="text-color-primary">Ashley Soderlund</span>
+              <span className="text-color-primary">United States Women's National Soccer Team</span>
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                A college student looking to find CS internships. Let's go on a trip to Disney, adopt a corgi, or hit the soccer field to play!
+                A team that paved a way for the development of women's sports in America and the world.
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="https://cruip.com/">
-                    Get started
+                  <Button tag="a" color="primary" wideMobile href="https://www.ussoccer.com/teams/uswnt">
+                    Visit USWNT Official Website
                     </Button>
-                  <Button tag="a" color="dark" wideMobile href="https://github.com/Ashley-Soderlund">
-                    View on Github
+                  <Button tag="a" color="dark" wideMobile href="https://www.ussoccer.com/schedule-tickets">
+                    Order Game Tickets
                     </Button>
                 </ButtonGroup>
               </div>

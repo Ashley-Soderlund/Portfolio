@@ -50,8 +50,8 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'Education',
-    paragraph: 'Currently still a student and working towards a degree in computer science and a minor in dischipleship.'
+    title: 'History',
+    paragraph: 'Founded in the 1980s, the Women\'s National Soccer Team has pushed through stereotypes and gender differences. They have built up a program which touches the lives of many Americans.'
   };
 
   return (
@@ -67,13 +67,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Circle High School
+                  First National Team
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Secondary Diploma
+                  1985
                   </h3>
                 <p className="m-0">
-                  Involved with soccer and National Honors Society while working through basic secondary education classes
+                  College soccer is on the rise in the US for women becuase gender-based discrimination for federally-funded edication programs were outlawed. This team was the beginning of a rich history of players making a name for the USA and women's soccer.
                   </p>
               </div>
               <div className={
@@ -93,13 +93,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Butler Community College
+                  Revolution of the Women's Team
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Dual-Credit Classes During High School
+                  1999
                   </h3>
                 <p className="m-0">
-                  Collected college credit during high school by taking college general education classes along with a Jave and C++ class
+                  This team was crucial in the development of the women's national team, everything came together for the program. The 1999 World Cup brought the spotlight to women's soccer in the media and in the eyes of future players.
                   </p>
               </div>
               <div className={
@@ -119,13 +119,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Southwestern College
+                  Current Team
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Current Bachelor Degree
+                  2021
                   </h3>
                 <p className="m-0">
-                  Studying computer science and discipleship; apart of the women's soccer team, discipleship, and philanthropy board - Graduate December 2022
+                  The USA has been dominate in women's soccer for the past couple of decades, with minor setbacks and losses. The world has caught back up and competition these women have to play against are challenging. There have been changes in coaching and new players. This team is also going through transitions to bring in younger players to keep up with the development of other countries' programs.
                   </p>
               </div>
               <div className={

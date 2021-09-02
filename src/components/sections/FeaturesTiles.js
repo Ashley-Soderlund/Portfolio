@@ -44,8 +44,8 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: 'Computer Programmer: Working On Full Stack',
-    paragraph: 'Understand and utilizes Python, C, and MySQL. Learning JaveScript, HTML, and CSS, along with bringing my backend and frontend skills together. Below are some of my skills/qualities:'
+    title: 'Current USWNT News',
+    paragraph: 'Major happenings with the team and accomplishments they have reached.'
   };
 
   return (
@@ -71,10 +71,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Team Work
+                    Carli Lloyd Retires
                     </h4>
                   <p className="m-0 text-sm">
-                    My many years of soccer has given me skills to be a good teammate and work for the success of the whole group instead of just myself.
+                    Ending after 27 years with being the second-most capped player in world soccer history and winning two World Cups, Carli Lloyd announced her retirement this past August 2021.
                     </p>
                 </div>
               </div>
@@ -93,10 +93,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Communication
+                    Olympic Showing 2020
                     </h4>
                   <p className="m-0 text-sm">
-                    Clear communication is a need for any business or team.
+                    The program has won gold in 4 out of their 7 appearances in the Olympics. In the 2020 games, the women placed 3rd.
                     </p>
                 </div>
               </div>
@@ -115,10 +115,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Problem Solving
+                    NWSL League
                     </h4>
                   <p className="m-0 text-sm">
-                    Programming is a constant state of problem solving and mowing over a bug for hours until it is solved. The process is worth it.
+                    The Olympains are back in time for NWSL playoffs and the competition has intensified!
                     </p>
                 </div>
               </div>
@@ -137,10 +137,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Organized
+                    World Cups
                     </h4>
                   <p className="m-0 text-sm">
-                    The ability to keep events and assignments organized directly corralates to my success and the OOP of my code.
+                    The women's national team has appeared in 8 World Cups and won 4 of them, most recently in 2019.
                     </p>
                 </div>
               </div>
@@ -159,10 +159,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Leadership
+                    Equal Pay
                     </h4>
                   <p className="m-0 text-sm">
-                    As the team adimistrator of discipleship and on the leadership council for soccer, the interations and challenges I have faced improved my leadership ability.
+                    The team has been a voice for equal pay in women's sports and conintues to fight for this equality.
                     </p>
                 </div>
               </div>
@@ -181,10 +181,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Creativity
+                    September 2021
                     </h4>
                   <p className="m-0 text-sm">
-                   I love every oppotunity to bring art into what I do, and programming is both technical and artisit.
+                   Games are starting up this month, with one on the 16th at 7:30pm ET and one the 21st at 7:30 ET.
                     </p>
                 </div>
               </div>
