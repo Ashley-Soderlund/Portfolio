@@ -6,3 +6,7 @@
 h1{
     color: #E63946 !important;
 }
+
+img {
+    border: double 5px #000;
+}
