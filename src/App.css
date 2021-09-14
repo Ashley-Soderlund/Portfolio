@@ -3,10 +3,52 @@
     color: darkblue !important;*/
 }
 
-h1{
-    color: #E63946 !important;
+
+span.text-color-primary{
+
+    color: #f30c0c !important;
+    font-weight: 900;
 }
 
 img {
     border: 5px #000;
 }
+
+body {
+    background:#f0efeb !important;
+}
+
+footer{
+    background: #f0efeb ;
+}
+
+p{
+    color:rgb(59, 56, 57) !important;
+}
+
+a.button{
+    color:ghostwhite !important;
+}
+
+/*a svg path{
+    display:none !important;
+}*/
+
+h2{
+    color:#07174b !important;
+}
+
+p.text-sm{
+    color:ghostwhite !important;
+}
+
+p.m-0{
+    color: rgb(59, 56, 57) !important;
+}
+
+
+button.header-nav-toggle{
+    color:mediumblue !important;
+}
+
+
