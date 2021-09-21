@@ -51,4 +51,55 @@ button.header-nav-toggle{
     color:mediumblue !important;
 }
 
+.easter-egg-avocado{
+    box-sizing: border-box;
+    width: 50%;
+    border: 30px solid #fff;
+    float:left;
+
+}
+
+
+.inner-avocado{
+    height: 700px;
+    background: #07174b;
+};
+
+.player{
+    line-height: 300%;
+}
+
+.name{
+    line-height: 200%;
+    font-weight: 900;
+    color:#f30c0c !important;
+    text-align: center;
+}
+
+.position{
+    line-height: 100%;
+    text-align: center;
+}
+
+.stats{
+    box-sizing: border-box;
+    width: 100%;
+    border: solid red 10px;
+    text-align: left !important;
+    color:#fff !important;
+    padding: 30px;
+    
+}
+
+.img-me{
+    display: block;
+    height: 100px;
+    width: auto;
+    background-image: url('/Portfolio/public/images/me.jpg');
+};
+
+
+
+
+
 
