@@ -77,7 +77,7 @@ button.header-nav-toggle{
 }
 
 .position{
-    line-height: 100%;
+    line-height: 120%;
     text-align: center;
 }
 
@@ -91,12 +91,12 @@ button.header-nav-toggle{
     
 }
 
-.img-me{
+/*.img-me{
     display: block;
     height: 100px;
     width: auto;
     background-image: url('/Portfolio/public/images/me.jpg');
-};
+};*/
 
 
 

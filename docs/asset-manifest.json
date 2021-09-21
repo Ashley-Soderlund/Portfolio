@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.10286ce0.chunk.css",
+    "main.js": "/Portfolio/static/js/main.0a9b275a.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.0a9b275a.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.966d352b.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.966d352b.js.map",
+    "static/js/2.b7caf1a0.chunk.js": "/Portfolio/static/js/2.b7caf1a0.chunk.js",
+    "static/js/2.b7caf1a0.chunk.js.map": "/Portfolio/static/js/2.b7caf1a0.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.e8de952b340e08dde81659d778c38866.js": "/Portfolio/precache-manifest.e8de952b340e08dde81659d778c38866.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/main.10286ce0.chunk.css.map": "/Portfolio/static/css/main.10286ce0.chunk.css.map",
+    "static/js/2.b7caf1a0.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.b7caf1a0.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/Portfolio/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-01.svg": "/Portfolio/static/media/feature-tile-icon-01.df3b3960.svg",
+    "static/media/feature-tile-icon-02.svg": "/Portfolio/static/media/feature-tile-icon-02.18b1d4be.svg",
+    "static/media/feature-tile-icon-03.svg": "/Portfolio/static/media/feature-tile-icon-03.58a6fd27.svg",
+    "static/media/feature-tile-icon-04.svg": "/Portfolio/static/media/feature-tile-icon-04.58fb02ca.svg",
+    "static/media/feature-tile-icon-05.svg": "/Portfolio/static/media/feature-tile-icon-05.240b0ccd.svg",
+    "static/media/feature-tile-icon-06.svg": "/Portfolio/static/media/feature-tile-icon-06.d86391f5.svg",
+    "static/media/features-split-image-01.png": "/Portfolio/static/media/features-split-image-01.ae935dc1.png",
+    "static/media/features-split-image-02.png": "/Portfolio/static/media/features-split-image-02.8c6f077b.png",
+    "static/media/features-split-image-03.png": "/Portfolio/static/media/features-split-image-03.c6d82a15.png",
+    "static/media/logo.svg": "/Portfolio/static/media/logo.2810a88b.svg",
+    "static/media/video-placeholder.jpg": "/Portfolio/static/media/video-placeholder.cc3b882a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.966d352b.js",
+    "static/js/2.b7caf1a0.chunk.js",
+    "static/css/main.10286ce0.chunk.css",
+    "static/js/main.0a9b275a.chunk.js"
+  ]
+}
