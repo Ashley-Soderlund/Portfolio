@@ -96,10 +96,57 @@ button.header-nav-toggle{
     height: 100px;
     width: auto;
     background-image: url('/Portfolio/public/images/me.jpg');
-};
+}
 
+.banner{
+    font-size: 32px !important ;
+    font-weight: 900;
+    height: 15vh;
+    background-color: #f30c0c;
 
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
+}
+
+footer nav a{
+    color: mediumblue  !important;
+}
+
+.footer-copyright{
+    color: #f30c0c !important;
+}
+
+.info{
+    flex: 1 1 25%;
+    color:blue;
+    display: flex;
+    justify-content: flex;
+    align-items: center;
+
+}
+
+.question{
+    color: blue;
+    display: flex;
+}
+
+.about{
+    color: blue;
+}
+
+.topic{
+    color: blue;
+}
+
+.support{
+    color: blue;
+}
+
+.bsupport{
+    color: blue;
+}
 
 
 
