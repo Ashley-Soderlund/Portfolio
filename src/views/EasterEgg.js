@@ -21,8 +21,10 @@ const EasterEgg = () => {
                     Goalkeeper
                 </div>
 
-                <img classname = "me" src = {Me}/>
-            
+                <div class = "container4">
+                    <img classname = "me" src = {Me}/>
+                </div>
+                
                 <div class = "stats">
                    Age: 20 <br></br> Team: Southwestern College <br/> Role: Goalkeeper/Website Creator <br></br> Major: Compupter Science <br></br> Minor: Discipleship
 

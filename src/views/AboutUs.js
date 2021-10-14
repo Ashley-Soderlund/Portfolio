@@ -19,8 +19,8 @@ const About = () => {
                 Hi, I'm Ashley Soderlund! I am a student at Southwestern College studying Computer Science.
                 In my major, I took an elective class on Website Design, thus this page
                 was born! Soccer is a passion of mine, so I created a website about a
-                women's soccer team very close to home. I have followed the United States Women's
-                soccer team ever since I was a little girl, and it is something
+                women's soccer team very close to my heart. I have followed the United States Women's
+                Soccer Team ever since I was a little girl, and it is something
                 I can easily talk about and continually work with for weeks on end.
             </div>
             <Footer/>

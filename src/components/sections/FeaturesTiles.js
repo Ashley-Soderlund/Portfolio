@@ -118,7 +118,7 @@ const FeaturesTiles = ({
                     NWSL League
                     </h4>
                   <p className="m-0 text-sm">
-                    The Olympains are back in time for NWSL playoffs and the competition has intensified!
+                    The finals are here soon, but there have been recent developments of heartbreaking news about abuse of power from some coaches in the league.
                     </p>
                 </div>
               </div>
@@ -181,10 +181,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    September 2021
+                    October 2021
                     </h4>
                   <p className="m-0 text-sm">
-                   Games are starting up this month, with one on the 16th at 7:30pm ET and one the 21st at 7:30 ET.
+                    Games for the month are on Thursday the 21st at 7:00pm CST and Tuesday the 26th at 7:00pm CST.
                     </p>
                 </div>
               </div>

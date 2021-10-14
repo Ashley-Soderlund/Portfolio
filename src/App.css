@@ -102,7 +102,6 @@ button.header-nav-toggle{
 
 footer nav a{
     color: mediumblue  !important;
-    margin: 15%;
 }
 
 .footer-copyright{
@@ -122,12 +121,34 @@ footer nav a{
 
 .info div {
     margin: 2%;  
-    background-color: #f30c0c; 
+    background-color: #f30c0c;
+    border-radius: 3rem; 
 }
 
 .question{
-    color: blue;
-    display: flex;
+    background-color:  #f0efeb;
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.question div {
+    flex: 1 1 50%; 
+    height: 6rem; 
+    margin: 30px 20px;
+
+    background-color: #f30c0c;
+    background-size: cover; 
+
+    color: white; 
+
+    border-radius: 2rem;
+
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .about{
@@ -142,11 +163,49 @@ footer nav a{
 }
 
 .support{
-    color: blue;
+    display:flex;
+    font-size: 30px;
+    justify-content: center;
+    color: white;
+    background-color: #f30c0c;
+    background-size: cover; 
+    border-radius: 2rem;
+    margin: 1%;
 }
 
 .bsupport{
+    margin: 1%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    background-color: #f30c0c;
+    background-size: cover; 
+    border-radius: 2rem;
+}
+
+.ranble{
     color: blue;
+}
+
+.cute{
+    color: blue;
+}
+
+.cute2{
+    color: blue;
+}
+
+.container3{
+    display: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.container3 img{
+    width: 550px;
+    height: auto;
+
 }
 
 .container2{
@@ -161,3 +220,14 @@ footer nav a{
     margin:5%;
 }
 
+.container4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container4 img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
