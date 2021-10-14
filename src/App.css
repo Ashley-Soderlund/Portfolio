@@ -1,8 +1,3 @@
-* {
-    /*background-color: darkblue !important;
-    color: darkblue !important;*/
-}
-
 
 span.text-color-primary{
 
@@ -11,6 +6,7 @@ span.text-color-primary{
 }
 
 img {
+    margin: 10%;
     border: 5px #000;
 }
 
@@ -53,7 +49,7 @@ button.header-nav-toggle{
 
 .easter-egg-avocado{
     box-sizing: border-box;
-    width: 50%;
+    width: 30%;
     border: 30px solid #fff;
     float:left;
 
@@ -91,27 +87,22 @@ button.header-nav-toggle{
     
 }
 
-.img-me{
-    display: block;
-    height: 100px;
-    width: auto;
-    background-image: url('/Portfolio/public/images/me.jpg');
-}
-
 .banner{
     font-size: 32px !important ;
     font-weight: 900;
     height: 15vh;
-    background-color: #f30c0c;
+    background-color: mediumblue;
 
     display: flex;
     justify-content: center;
     align-items: center;
 
+
 }
 
 footer nav a{
     color: mediumblue  !important;
+    margin: 15%;
 }
 
 .footer-copyright{
@@ -119,12 +110,19 @@ footer nav a{
 }
 
 .info{
-    flex: 1 1 25%;
-    color:blue;
+    color: white;
+    flex-direction: column;
     display: flex;
-    justify-content: flex;
-    align-items: center;
+    text-align: left;
+    font-size: 25px;
+    align-items: left;
+    justify-content: center;
 
+}
+
+.info div {
+    margin: 2%;  
+    background-color: #f30c0c; 
 }
 
 .question{
@@ -133,11 +131,14 @@ footer nav a{
 }
 
 .about{
-    color: blue;
+    color:#f30c0c;
+    font-size: 20px;
 }
 
 .topic{
-    color: blue;
+    color: white;
+    background-color: rgba(233, 24, 24, 0.452);
+    font-size: 28px;
 }
 
 .support{
@@ -148,5 +149,15 @@ footer nav a{
     color: blue;
 }
 
+.container2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
+.container2 img{
+    width: 550px;
+    height: auto;
+    margin:5%;
+}
 

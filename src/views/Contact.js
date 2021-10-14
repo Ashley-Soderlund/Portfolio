@@ -10,9 +10,9 @@ const Contact = () => {
                 Contact
             </Banner>
             <div class = "info">
-                Email: Ashley.Soderlund@sckans.edu
-                Phone: (316) 888-8888
-                GitHub: Ashley-Soderlund
+                <div> Phone Number: (316) 888-8888</div>
+                <div> GitHub Account: Ashley-Soderlund</div>
+                <div> Email Address: Ashley.Soderlund@sckans.edu</div>
 
             </div>
             <Footer/>

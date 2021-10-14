@@ -1,5 +1,6 @@
 import React from 'react';
 import {Link} from 'react-router-dom';
+import Me from "../assets/images/me.jpg";
 
 const EasterEgg = () => {
     return (
@@ -19,11 +20,11 @@ const EasterEgg = () => {
                 <div class = "position">
                     Goalkeeper
                 </div>
-                <div class = "img-me">
-               
-                </div>
+
+                <img classname = "me" src = {Me}/>
+            
                 <div class = "stats">
-                   Rank: 74 <br></br> Age: 20 <br></br> Team: Southwestern College <br></br> Dominate Foot: Right <br></br> Stregnths: Communication, Decision Making, Agressive, 1v1's <br></br> Weaknesses: Bum Left Ankle, Frequently Jammed Fingers <br></br> Role: Website Creator <br></br> Major: Computer Science <br></br> Minor: Discipleship <br></br> Graduates: December 2022
+                   Age: 20 <br></br> Team: Southwestern College <br/> Role: Goalkeeper/Website Creator <br></br> Major: Compupter Science <br></br> Minor: Discipleship
 
                 </div>
             </div>
